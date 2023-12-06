@@ -1,4 +1,6 @@
 target/
+.idea/
+Ahmed_SeleniumAutomation.iml
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/

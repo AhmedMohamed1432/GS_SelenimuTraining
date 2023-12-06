@@ -11,3 +11,6 @@ L
 Ahmed_SeleniumAutomation.iml,d\f\df50896199e44f4f5b7fb86b5260af6586c91b6c
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
